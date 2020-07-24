@@ -1,0 +1,8 @@
+{
+  "include": ["src/components/**/CZ*.vue"],
+  "exclude": ["src/components/Demo/**/*.vue"],
+  "outDir": "src/components/docs",
+  "markdownDir": "markdown",
+  "genType": "docute",
+  "title": "全局组件文档"
+}

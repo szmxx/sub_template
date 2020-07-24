@@ -1,0 +1,20 @@
+$fontFamily: "Avenir, Helvetica, Arial, sans-serif";
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  font-family: $fontFamily;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// 自定义浏览器样式
+@import "./browser";
+
+// 自定义iview样式
+@import "./iview";
+
+// 自定义全局mixin
+@import "./mixins";
