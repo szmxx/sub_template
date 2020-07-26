@@ -1,7 +1,7 @@
 <!--
  * @Author: weicong
  * @Date: 2020-07-17 09:59:18
- * @LastEditTime: 2020-07-19 15:02:05
+ * @LastEditTime: 2020-07-26 15:08:28
  * @LastEditors: weicong
  * @Description:
 -->
@@ -26,9 +26,9 @@ export default {
 .home {
   width: 100%;
   height: 100%;
-  background: url("@/assets/img/28.png");
+  background: url("~@/assets/img/28.png");
   div {
-    background: url("../../assets/img/0.jpg");
+    background: url("~@/assets/img/0.jpg");
   }
 }
 </style>
