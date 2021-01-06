@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@dist/sm3d-core": "^2.0.21",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "view-design": "^4.3.2",
     "vue": "^2.6.11",
